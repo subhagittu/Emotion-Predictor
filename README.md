@@ -45,12 +45,6 @@
 </ol>
 
 
-
-# Release the webcam and close windows
-cap.release()
-cv2.destroyAllWindows()
-</code></pre>
-
 <h2>Explanation</h2>
 
 <ul>
