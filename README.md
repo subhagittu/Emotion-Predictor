@@ -38,6 +38,8 @@
         <li>Place <code>default_11.xml</code> in the project directory.</li>
         <li>Place <code>model.h5</code> in the project directory.</li>
         <li>Download the <code>requirements.txt</code> file</li>
+        <li><strong>and then install the modules using: </strong>
+        <pre><code>pip install -r requirements.txt</code></pre></li>
         <li><strong>Run the emotion detector:</strong>
         <pre><code>python emotion_detector.py</code></pre></li>
     </ul></li>
