@@ -22,7 +22,7 @@
 
 <h2>Installation</h2>
 <ol>
-    <li><strong>Clone the repository:</strong>
+    Clone the repository:
     <pre><code>git clone &lt;repository_url&gt;</code></pre></li>
 
     <li><strong>Navigate to the project directory:</strong>
