@@ -24,12 +24,11 @@
 <ol>
     Clone the repository:
     <pre><code>git clone &lt;repository_url&gt;</code></pre></li>
-
     <li><strong>Navigate to the project directory:</strong>
     <pre><code>cd &lt;repository_directory&gt;</code></pre></li>
-
     <li><strong>Install the required packages:</strong>
     <pre><code>pip install -r requirements.txt</code></pre></li>
+    
 </ol>
 
 <h2>Usage</h2>
